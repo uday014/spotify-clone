@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify-clone/static/css/main.6b470eef.css",
+    "main.js": "/spotify-clone/static/js/main.26dd537c.js",
+    "index.html": "/spotify-clone/index.html",
+    "main.6b470eef.css.map": "/spotify-clone/static/css/main.6b470eef.css.map",
+    "main.26dd537c.js.map": "/spotify-clone/static/js/main.26dd537c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b470eef.css",
+    "static/js/main.26dd537c.js"
+  ]
+}
