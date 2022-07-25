@@ -1,7 +1,7 @@
 {
   "name": "spotify_clone",
   "version": "0.1.0",
-  "homepage": "http://uday014.github.io/spotify-clone",
+  "homepage": "http://uday014.github.io/spotify_clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
